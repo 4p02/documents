@@ -15,7 +15,11 @@ Features:
 backends:
 - golang
 - python
+  - flask
+  - django
+  - jinja
 - node/deno
+  - express
 
 db:
 - maria/postgres
